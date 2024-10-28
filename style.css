@@ -1,0 +1,14 @@
+body {
+    background-image: url(./pexels-emily-ranquist-493228-1205651.jpg);
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding-top: 50px;
+}
+
+#result {
+    display: none;
+    font-weight: bold;
+}
